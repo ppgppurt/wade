@@ -1,20 +1,18 @@
 <img align="left" src="imagens/logo_wade.png" width="200">
 
+## &#x2690; Sobre
+Esse evento tem como objeto primário o compartilhamento de experiências, a promoção da integração de pesquisa e a capacitação de pesquisadores em análise estatística de dados entomológicos, principalmente originários de experimentos agronômicos.
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Visits Badge](https://badges.pufler.dev/visits/ppgppurt/wade)](https://ppgppurt.github.io/wade)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ppgppurt/wade?color=orange&style=flat)
-
-_____
-
-## &#x2690; Sobre
-Esse evento tem como objeto primário o compartilhamento de experiências, a promoção da integração de pesquisa e a capacitação de pesquisadores em análise estatística de dados entomológicos, principalmente originários de experimentos agronômicos.
 
 <br />
 
 _____
 
 ## &#x1f4dd; Quando, onde e como
-Dia 01/06/2021 das 08:00 às 12:00, pelo *Google Meet*. Esse evento é de caráter restrito, com participação efetivada via convite e/ou manifestação de interesse, sendo esta analisada pela organização.
+Dia 01/06/2021 das 08:00 às 12:00, pelo *Google Meet*. Esse evento é de caráter restrito, isto é, com participação limitada a convite e/ou manifestação de interesse, sendo esta última opção analisada pela organização.
 
 _____
 
@@ -41,6 +39,8 @@ _____
 
 ## &#x272D; Promoção
 Programa de Pós-Graduação em Proteção de Plantas - [Instituto Federal Goiano - Campus Urutaí](https://www.ifgoiano.edu.br/home/index.php/urutai)
+
+_____
 
 ## &#x2709; Contato
 <ppgpp.urt@ifgoiano.edu.br>
