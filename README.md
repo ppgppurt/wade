@@ -1,4 +1,4 @@
-[![](imagens/logo_wade.png)](https://ppgppurt.github.io/wade)
+<img align="center" src="imagens/logo_wade.png" width="200">
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Visits Badge](https://badges.pufler.dev/visits/ppgppurt/wade)](https://ppgppurt.github.io/wade)
@@ -11,10 +11,10 @@ Compartilhar experiências, promover integração de pesquisa e capacitação de
 Dia 01/06/2021 das 08:00 às 12:00, pelo Google Meet. Esse evento é de caráter restrito, com participação efetivada via convite e/ou manifestação de interesse, sendo esta analisada pela organização.
 
 ## Participantes confirmados
-- [André Cirílo de Souza Almeida](http://lattes.cnpq.br/7511716135317356) (IF Goiano - Campus Urutaí)
-- [Anderson Rodrigo da Silva](http://lattes.cnpq.br/3916683240962357) (IF Goiano - Campus Urutaí)
-- [José Alexandre](http://lattes.cnpq.br/5377957113836597) (Embrapa Arroz e Feijão)
-- [Flávio Gonçalves de Jesus](http://lattes.cnpq.br/7529042187654040) (IF Goiano - Campus Urutaí)
+ 
+[<img src="imagens/andre_cirilo.jpg" width="100">](http://lattes.cnpq.br/7511716135317356) | André Cirílo de Souza Almeida (IF Goiano - Campus Urutaí) | [<img src="imagens/anderson_silva.jpg" width="100">](http://lattes.cnpq.br/3916683240962357) | Anderson Rodrigo da Silva (IF Goiano - Campus Urutaí)
+-----------|:------------------------------------------------------|:-----------|:------------------------------------------------------
+[<img src="imagens/jose_alexandre.jpg" width="100">](http://lattes.cnpq.br/5377957113836597) | José Alexandre de Freitas Barrigossi (Embrapa Arroz e Feijão) | [<img src="imagens/flavio_goncalves.jpg" width="100">](http://lattes.cnpq.br/7529042187654040) | Flávio Gonçalves de Jesus (IF Goiano - Campus Urutaí)
 
 ## Tópicos
 - Modelos lineares generalizados para dados de contagem e dados inflacionados de zero
@@ -22,11 +22,11 @@ Dia 01/06/2021 das 08:00 às 12:00, pelo Google Meet. Esse evento é de caráter
 - Análise de sobrevivência
 - Aplicações de análise multivariada em ecologia de insetos
 
-____
-*Organizadores*: Anderson Rodrigo da Silva, André Cirílo de Souza Almeida, José Alexandre de Freitas Barrigossi
+## Organizadores
+[Anderson Rodrigo da Silva](http://lattes.cnpq.br/3916683240962357), [André Cirílo de Souza Almeida](http://lattes.cnpq.br/7511716135317356), [José Alexandre de Freitas Barrigossi](http://lattes.cnpq.br/5377957113836597)
 
-____
-*Promoção:* Programa de Pós-Graduação em Proteção de Plantas - [Instituto Federal Goiano - Campus Urutaí](https://www.ifgoiano.edu.br/home/index.php/urutai)
+## Promoção
+Programa de Pós-Graduação em Proteção de Plantas - [Instituto Federal Goiano - Campus Urutaí](https://www.ifgoiano.edu.br/home/index.php/urutai)
 
-____
-*Contato:* ppgpp.urt@ifgoiano.edu.br
+## Contato
+<ppgpp.urt@ifgoiano.edu.br>
