@@ -1,5 +1,10 @@
 title: I Workshop de Análise de Dados Entomológicos
-description: 
-markdown: kramdown
-theme: minima
-github_username: ppgppurt
+
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
