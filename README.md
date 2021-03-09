@@ -11,8 +11,6 @@ Esse evento tem como objeto primário o compartilhamento de experiências, a pro
 
 <br />
 
-<br />
-
 _____
 
 ## &#x1f4dd; Quando, onde e como
