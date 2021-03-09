@@ -1,5 +1,7 @@
 <img align="left" src="imagens/logo_wade.png" width="200">
 
+<br />
+
 ## &#x2690; Sobre
 Esse evento tem como objeto primário o compartilhamento de experiências, a promoção da integração de pesquisa e a capacitação de pesquisadores em análise estatística de dados entomológicos, principalmente originários de experimentos agronômicos.
 
