@@ -12,7 +12,7 @@ Esse evento tem como objeto primário o compartilhamento de experiências, a pro
 _____
 
 ## &#x1f4dd; Quando, onde e como
-Dia 01/06/2021 das 08:00 às 12:00, pelo *Google Meet*. Esse evento é de caráter restrito, isto é, com participação limitada a convite e/ou manifestação de interesse, sendo esta última opção analisada pela organização.
+Dia 01/06/2021 das 08:00 às 12:00, pelo *Google Meet*. Esse evento é de caráter restrito, isto é, com participação limitada a convite e/ou manifestação de interesse, sendo esta última opção condicionada a análise pela organização.
 
 _____
 
