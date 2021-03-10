@@ -26,13 +26,15 @@ Aplicações de análise multivariada em ecologia de insetos | em breve... | Jos
 
 ## &#x2714; Participantes confirmados
  
-[<img src="imagens/andre_cirilo.jpg" width="100">](http://lattes.cnpq.br/7511716135317356) | André Cirílo de Souza Almeida (IF Goiano - Campus Urutaí) | [<img src="imagens/anderson_silva.jpg" width="100">](http://lattes.cnpq.br/3916683240962357) | Anderson Rodrigo da Silva (IF Goiano - Campus Urutaí)
+[<img src="imagens/andre_cirilo.jpg" width="100">](http://lattes.cnpq.br/7511716135317356) | André Cirílo de Sousa Almeida (IF Goiano - Campus Urutaí) | [<img src="imagens/anderson_silva.jpg" width="100">](http://lattes.cnpq.br/3916683240962357) | Anderson Rodrigo da Silva (IF Goiano - Campus Urutaí)
 -----------|:------------------------------------------------------|:-----------|:------------------------------------------------------
 [<img src="imagens/jose_alexandre.jpg" width="100">](http://lattes.cnpq.br/5377957113836597) | José Alexandre de Freitas Barrigossi (Embrapa Arroz e Feijão) | [<img src="imagens/flavio_goncalves.jpg" width="100">](http://lattes.cnpq.br/7529042187654040) | Flávio Gonçalves de Jesus (IF Goiano - Campus Urutaí)
 [<img src="imagens/jose_bruno.jpg" width="100">](http://lattes.cnpq.br/1103370910009848) | José Bruno Malaquias (Unesp - Botucatu) | ... |  ...
 
 ## &#9881; Organizadores
-[Anderson Rodrigo da Silva](http://lattes.cnpq.br/3916683240962357), [André Cirílo de Souza Almeida](http://lattes.cnpq.br/7511716135317356), [José Alexandre de Freitas Barrigossi](http://lattes.cnpq.br/5377957113836597)
+- [Anderson Rodrigo da Silva](anderson.silva@ifgoiano.edu.br)
+- [André Cirílo de Sousa Almeida](andre.almeida@ifgoiano.edu.br)
+- [José Alexandre de Freitas Barrigossi](jose.barrigossi@embrapa.br)
 
 ## &#x272D; Promoção
 Programa de Pós-Graduação em Proteção de Plantas - [Instituto Federal Goiano - Campus Urutaí](https://www.ifgoiano.edu.br/home/index.php/urutai)
