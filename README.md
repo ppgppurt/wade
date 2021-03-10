@@ -37,7 +37,8 @@ Aplicações de análise multivariada em ecologia de insetos | em breve... | Jos
 - [José Alexandre de Freitas Barrigossi](mailto:jose.barrigossi@embrapa.br)
 
 ## &#x272D; Promoção
-Programa de Pós-Graduação em Proteção de Plantas - [Instituto Federal Goiano - Campus Urutaí](https://www.ifgoiano.edu.br/home/index.php/urutai)
+[<img align="left" src="imagens/Logo_IF.png" width="100">](https://www.ifgoiano.edu.br/home/index.php/urutai)
+[<img align="left" src="imagens/Logo_PPGPP.png" width="100">](https://sistemas.ifgoiano.edu.br/sgcursos/index.php?id_curso=MQ==&p=pos-graduacao)
 
 ## &#x2709; Contato
 E-mail: <ppgpp.urt@ifgoiano.edu.br>
