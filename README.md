@@ -32,9 +32,9 @@ Aplicações de análise multivariada em ecologia de insetos | em breve... | Jos
 [<img src="imagens/jose_bruno.jpg" width="100">](http://lattes.cnpq.br/1103370910009848) | José Bruno Malaquias (Unesp - Botucatu) | ... |  ...
 
 ## &#9881; Organizadores
-- [Anderson Rodrigo da Silva](<anderson.silva@ifgoiano.edu.br>)
-- [André Cirílo de Sousa Almeida](<andre.almeida@ifgoiano.edu.br>)
-- [José Alexandre de Freitas Barrigossi](<jose.barrigossi@embrapa.br>)
+- [Anderson Rodrigo da Silva](mailto:anderson.silva@ifgoiano.edu.br)
+- [André Cirílo de Sousa Almeida](mailto:andre.almeida@ifgoiano.edu.br)
+- [José Alexandre de Freitas Barrigossi](mailto:jose.barrigossi@embrapa.br)
 
 ## &#x272D; Promoção
 Programa de Pós-Graduação em Proteção de Plantas - [Instituto Federal Goiano - Campus Urutaí](https://www.ifgoiano.edu.br/home/index.php/urutai)
