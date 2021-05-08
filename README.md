@@ -1,4 +1,4 @@
-<img align="left" src="imagens/logo_wade.png" width="200">
+<img align="left" src="imagens/logo_wade.gif" width="200">
 
 <br />
 
