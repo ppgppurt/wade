@@ -6,7 +6,7 @@
 Esse evento tem como objeto primário o compartilhamento de experiências, a promoção da integração de pesquisa e a capacitação de pesquisadores em análise estatística de dados entomológicos, principalmente originários de experimentos agronômicos.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Visits Badge](https://badges.pufler.dev/visits/ppgppurt/wade)](https://ppgppurt.github.io/wade)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fppgppurt.github.io%2Fwade&count_bg=%2362DA06&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ppgppurt/wade?color=orange&style=flat)
 
 <br />
