@@ -8,3 +8,5 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+iis_slider_array: []
