@@ -17,7 +17,7 @@ Esse evento tem como objeto primário o compartilhamento de experiências, a pro
 Dia 01/06/2021 das 08:00 às 12:00, pelo *Google Meet*. Esse evento é de caráter restrito, isto é, com participação limitada a convite (RSVP) e/ou manifestação de interesse, sendo esta última opção condicionada a análise pela organização.
 
 <details>
-  <summary>Screenshots</summary>
+  <summary>Screenshots &#128247;</summary>
   <img src="screenshots/screen (1).JPG" name="image-name">
   <img src="screenshots/screen (2).JPG" name="image-name">
   <img src="screenshots/screen (3).JPG" name="image-name">
