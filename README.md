@@ -26,6 +26,22 @@ Análise de tabelas de vida  e fertilidade | O potencial de crescimento de popul
 Abordagem multivariada como ferramenta para compreensão da dinâmica populacional de pragas e inimigos naturais | Em estudos envolvendo interações tróficas de insetos-praga e seus predadores/parasitoides, análises multivariadas baseadas em PCA, agrupamento, escalonamento multidimensional e permanova possibilitam a exploração de ligações estruturais que envolvem um grande número de variáveis, permitindo também meios de classificação do habitat e da estrutura do agroecossistema. Serão apresentados potenciais aplicações dessas técnicas. [Resumo](Resumo-Multivariada-BrunoJessica.pdf) | Dr. José Bruno Malaquias (Unesp - Botucatu), MSc. Jéssica Pachú (Esalq/USP)
 Modelos lineares generalizados para dados de contagem e dados inflacionados de zero | Dados de contagem, como número de insetos por planta e proporção de insetos mortos, podem ser descritos por modelos lineares generalizados (GLM), com distribuições Poisson, binomial negativa ou outra. Não raramente esses dados se apresentam com excesso de zeros. Este e outros fenômenos experimentais causam falta de ajuste (superdispersão) nos GLM. Veremos como ajustar, interpretar e utilizar critérios objetivos para escolha acertada de GLM. [Slides](GLM.html) | Prof. Dr. Anderson Rodrigo da Silva
 
+<details>
+  <summary>Screenshots</summary><details>
+  <img src="screenshots/screen (1).JPG" name="image-name">
+  <img src="screenshots/screen (2).JPG" name="image-name">
+  <img src="screenshots/screen (3).JPG" name="image-name">
+ <img src="screenshots/screen (4).JPG" name="image-name">
+ <img src="screenshots/screen (5).JPG" name="image-name">
+ <img src="screenshots/screen (6).JPG" name="image-name">
+ <img src="screenshots/screen (7).JPG" name="image-name">
+ <img src="screenshots/screen (8).JPG" name="image-name">
+ <img src="screenshots/screen (9).JPG" name="image-name">
+ <img src="screenshots/screen (10).JPG" name="image-name">
+ <img src="screenshots/screen (11).JPG" name="image-name">
+ <img src="screenshots/screen (12).JPG" name="image-name">
+</details>
+
 ## &#x2714; Participantes confirmados
  
 [<img src="imagens/andre_cirilo.jpg" width="100">](http://lattes.cnpq.br/7511716135317356) | André Cirílo de Sousa Almeida (IF Goiano - Campus Urutaí) | [<img src="imagens/anderson_silva.jpg" width="100">](http://lattes.cnpq.br/3916683240962357) | Anderson Rodrigo da Silva (IF Goiano - Campus Urutaí)
