@@ -48,10 +48,10 @@ Modelos lineares generalizados para dados de contagem e dados inflacionados de z
 [<img src="imagens/andre_cirilo.jpg" width="100">](http://lattes.cnpq.br/7511716135317356) | André Cirílo de Sousa Almeida (IF Goiano - Campus Urutaí) | [<img src="imagens/anderson_silva.jpg" width="100">](http://lattes.cnpq.br/3916683240962357) | Anderson Rodrigo da Silva (IF Goiano - Campus Urutaí)
 -----------|:------------------------------------------------------|:-----------|:------------------------------------------------------
 [<img src="imagens/jose_alexandre.jpg" width="100">](http://lattes.cnpq.br/5377957113836597) | José Alexandre de Freitas Barrigossi (Embrapa Arroz e Feijão) | [<img src="imagens/flavio_goncalves.jpg" width="100">](http://lattes.cnpq.br/7529042187654040) | Flávio Gonçalves de Jesus (IF Goiano - Campus Urutaí)
-[<img src="imagens/jose_bruno.jpg" width="100">](http://lattes.cnpq.br/1103370910009848) | José Bruno Malaquias (Unesp - Botucatu) | [<img src="imagens/jessica_pachu.jpg" width="100">](http://lattes.cnpq.br/2656204781354803) | Jéssica Karina da Silva Pachú (Esalq/USP)
-[<img src="imagens/paula_marçon.jpg" width="100">](https://www.linkedin.com/in/paulamarcon/) | Paula Marçon (AgBiTech) | [<img src="imagens/janayne_rezende.jpg" width="100">](http://lattes.cnpq.br/5683257357083138) | Janayne Maria Rezende (AgBiTech)
+[<img src="imagens/jose_bruno.jpg" width="100">](http://lattes.cnpq.br/1103370910009848) | [José Bruno Malaquias](certificados/Jose_Bruno.pdf) (Unesp - Botucatu) | [<img src="imagens/jessica_pachu.jpg" width="100">](http://lattes.cnpq.br/2656204781354803) | Jéssica Karina da Silva Pachú (Esalq/USP)
+[<img src="imagens/paula_marçon.jpg" width="100">](https://www.linkedin.com/in/paulamarcon/) | [Paula Marçon](certificados/Paula_Marcon.pdf) (AgBiTech) | [<img src="imagens/janayne_rezende.jpg" width="100">](http://lattes.cnpq.br/5683257357083138) | [Janayne Maria Rezende](certificados/Janayne_Rezende.pdf) (AgBiTech)
 [<img src="imagens/tavvs_alves.jpg" width="100">](http://lattes.cnpq.br/5338890149931342) | Tavvs Micael Alves (IF Goiano) | [<img src="imagens/jose_miranda.jpg" width="100">](http://lattes.cnpq.br/7468624337295084) | José Ednilson Miranda (Embrapa Algodão)
-[<img src="imagens/aline_maia.jpg" width="100">](http://lattes.cnpq.br/6368988548199178) | Aline de Holanda Nunes Maia (Embrapa Meio Ambiente) |
+[<img src="imagens/aline_maia.jpg" width="100">](http://lattes.cnpq.br/6368988548199178) | [Aline de Holanda Nunes Maia](certificados/Aline_Maia.pdf) (Embrapa Meio Ambiente) |
 
 ## &#9881; Organizadores
 - [Anderson Rodrigo da Silva](mailto:anderson.silva@ifgoiano.edu.br)
